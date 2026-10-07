@@ -104,7 +104,7 @@
 * **Home Town:** Virudhunagar, Tamil Nadu, India
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arun-kannan-177b06281&show_icons=true&theme=radical&hide_border=true" alt="Arun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunBeSmart&show_icons=true&theme=radical&hide_border=true" alt="Arun's GitHub Stats" />
 </p>
 
 ---
