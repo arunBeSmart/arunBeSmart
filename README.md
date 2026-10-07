@@ -46,23 +46,62 @@
 
 ---
 
-### 📂 Key Projects & Systems Built
+### 📂 Key Projects & Systems
 
-* 🏭 **Enterprise & Factory Solutions:** V.V.V Machine Utilization Report, Machine History Card, Canteen Management System, Film Roll Order Management, and Awards Score Card.
-* 📦 **Logistics & Dispatch:** Dispatch Labeling System (`Laravel + MSSQL`) & Despatch/Sales APIs (`MVC PHP`).
-* 💳 **Fintech & Integrations:** SIPCOT Payment Gateway (SBI) & Notification APIs (WhatsApp/SMS).
-* 📱 **Mobile App Backends:** RESTful backend services for mobile sales applications and service traceability tools.
+<details>
+<summary><b>🏭 V.V.V & Sons Factory & Enterprise Systems</b></summary>
+
+* **Machine Utilization Report:** Automated production monitoring.
+* **Machine History Card:** Maintenance lifecycle tracking.
+* **Canteen Management System:** Digital tracking solution.
+* **Film Roll Order Management:** Streamlined inventory & order processing.
+* **Awards Score Card & CSR:** Internal corporate tracking tools.
+* **Salary & DA Revision:** Automated compensation management.
+</details>
+
+<details>
+<summary><b>📦 Logistics, Payments & Multi-Client Solutions</b></summary>
+
+* **SIPCOT:** SBI Payment Gateway, SMS, WhatsApp API integrations; Mobile app backend API in MySQL & CakePHP; Service applications with tracking status.
+* **V.R.M:** Despatch API and Mobile Sales App Backend API.
+* **IPRINGS:** Dispatch Labeling System (`Laravel + MSSQL`).
+* **MAYA:** Project Management System (`Laravel + MSSQL`).
+* **HCL:** Windows & Linux server installation, service, and maintenance.
+</details>
+
+
+
+---### 📜 Certifications & Professional Workshops
+
+* **Cloud & DevOps:**
+  * Master Top 10 AWS Services Practically — *CloudDevOpsHub* (Sep 2026)
+  * Fundamentals of Docker & Kubernetes — *Scaler* (Sep 2026)
+  * Three Tier Application Deployment with GitHub Actions — *TrainWithSubham* (Sep 2026)
+  * Linux For DevOps MasterClass — *TrainWithSubham* (Sep 2026)
+  * 10 DevOps Tools With Agentic AI — *CloudDevOpsHub* (Sep 2026)
+  * Linux Workshop Certificate — *CloudDevOpsHub* (Sep 2026)
+* **Full-Stack & AI Engineering:**
+  * Full Stack Development MERN — *NoviTech R&D Pvt. Ltd.* (Jul–Sep 2026)
+  * Claude AI & Context Engineering — *NoviTech R&D Pvt. Ltd.* (Aug 2026)
+  * Agentic AI Course – Agent Memory and AI Skills — *Scaler* (Sep 2026)
+  * Django with Machine Learning Bootcamp — *LAMDA Tech Softics* (Feb 2024)
+  * Low Level Design of Payment Apps — *Scaler* (Sep 2026)
+  * Digital Marketing Using AI — *Skill Nation* (Aug 2026)
 
 ---
 
-### 📜 Recent Cloud & DevOps Upskilling
-* **Cloud & Containers:** *Master Top 10 AWS Services* (CloudDevOpsHub), *Fundamentals of Docker & Kubernetes* (Scaler).
-* **Automation & CI/CD:** *Three Tier Application Deployment with GitHub Actions* (TrainWithSubham), *Linux Workshop & Linux For DevOps Masterclass*.
-* **Modern Tech:** *Full Stack Development MERN* (NoviTech), *10 DevOps Tools With Agentic AI*.
+### 🎓 Education
+
+* **Diploma in Electrical and Electronic Engineering (EEE)** — VSVN Polytechnic, Virudhunagar (2002–2005) • **91.63%**
+* **Diploma in Computer Programming** — TMC Computer Education, Virudhunagar
+* **S.S.L.C.** — KVS Hr. Sec. School, Virudhunagar • **91%**
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Languages & Additional Info
+
+* **Languages:** Tamil (Fluent) | English (Working proficiency) | Hindi (Basic)
+* **Home Town:** Virudhunagar, Tamil Nadu, India
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arun-kannan-177b06281&show_icons=true&theme=radical&hide_border=true" alt="Arun's GitHub Stats" />
