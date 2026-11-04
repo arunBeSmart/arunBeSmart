@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Arun Kannan 👋</h1>
+<h1 align="center">Hi there, I'm Arun K 👋</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arun-kannan-177b06281&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://linkedin.com/in/arun-kannan-177b06281"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a>
