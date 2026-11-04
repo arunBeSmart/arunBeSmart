@@ -91,6 +91,8 @@
 ---
 
 ### 🎓 Education
+Bachelors of Science – Computer Science 
+(2025 –Pursuing)
 
 * **Diploma in Electrical and Electronic Engineering (EEE)** — VSVN Polytechnic, Virudhunagar (2002–2005) • **91.63%**
 * **Diploma in Computer Programming** — TMC Computer Education, Virudhunagar
