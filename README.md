@@ -33,18 +33,23 @@
 
 ### 💼 Professional Experience Overview
 
-* **Junior Officer – PHP Web Developer** | *V.R.Muthu & Brothers* (Mar 2025 – May 2026)
+* **Senior PHP Web Developer** | *V.R.Muthu & Brothers* (Mar 2025 – May 2026)
   * Developed Sales & Despatch APIs in MVC PHP and MySQL.
+  * Team leader, Project management
   * Performed database administration, performance tuning, query optimization, and indexing.
-* **IT Consultant – PHP Web Developer** | *SIPCOT HO, Chennai* (Sep 2023 – Feb 2025)
+* **IT Consultant – PHP Web Developer & Cloud Devops** | *SIPCOT HO, Chennai* (Sep 2023 – Feb 2025)
   * Managed MySQL DB administration, ELCOT Cloud SSH, and cloud server maintenance.
   * Integrated third-party services: SBI Payment Gateway, SMS, and WhatsApp APIs.
   * Handled user access control, IP whitelisting, data migrations, and SSL renewals.
-* **Junior Maintenance Engineer – PHP Dev & System Admin** | *V.V.V & Sons Edible Oils Ltd* (Apr 2015 – Dec 2022)
+  * Project  management 
+* **Junior Maintenance Engineer – PHP Dev & Cloud Devops** | *V.V.V & Sons Edible Oils Ltd* (Apr 2015 – Dec 2022)
   * Built production, billing, and reporting applications using Core PHP, Laravel, and MySQL.
   * Handled hardware/software IT support, server installation, networking, and CCTV maintenance.
+  * Team leader, Project management 
 * **Senior Customer Engineer** | *HCL Infosystems / HCL Services* (May 2005 – Nov 2014)
   * Delivered on-field technical support for computer hardware, printers, scanners, and servers.
+  * Team leader.
+  
 
 ---
 
@@ -89,13 +94,14 @@
   * Django with Machine Learning Bootcamp — *LAMDA Tech Softics* (Feb 2024)
   * Low Level Design of Payment Apps — *Scaler* (Sep 2026)
   * Digital Marketing Using AI — *Skill Nation* (Aug 2026)
+  * Diploma in Computer Programming — *TMC Computer Education, Virudhunagar 2004
 
 ---
 
 ### 🎓 Education
 
+* **Bachelors of Science – Computer Science** — Alagappa University Distance Education (2025–Pursuing) •
 * **Diploma in Electrical and Electronic Engineering (EEE)** — VSVN Polytechnic, Virudhunagar (2002–2005) • **91.63%**
-* **Diploma in Computer Programming** — TMC Computer Education, Virudhunagar
 * **S.S.L.C.** — KVS Hr. Sec. School, Virudhunagar • **91%**
 
 ---
