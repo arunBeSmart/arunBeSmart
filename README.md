@@ -48,7 +48,7 @@
   * Team leader, Project management 
 * **Senior Customer Engineer** | *HCL Infosystems / HCL Services* (May 2005 – Nov 2014)
   * Delivered on-field technical support for computer hardware, printers, scanners, and servers.
-  * Team leader.
+  * Daily Plannibg, Team leading.
   
 
 ---
